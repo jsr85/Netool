@@ -4,7 +4,7 @@ Netool® is a steady-state completion and near-wellbore hydraulics simulator. It
 
 Netool® helps well planning and completion design, as well as troubleshoots production problems and aids in taking appropriate corrective actions. The graphical user interface facilitates interactive well placement and easy selection of completion components, the effects of well position, length, and completion configuration on production and injection performance are easily modeled. Netool® replaces conventional [nodal analysis ](additional.md#nodal-analysis)software with the ability to model complex well hydraulics from sandface to the wellhead by combining reservoir deliverability with completion and vertical flow.
 
-Netool models are:
+Netool models [are](exercises.md#hole-and-completion):
 
 * Full equation matrix 
 * Black Oil Formulation with thermal module 
